@@ -150,7 +150,7 @@
 body {
     font-family: 'Roboto';
     font-size: 100%;
-    background-color: rosybrown;
+    background-color: snow;
 }
 
 /**  *****  Header CSS  *****
@@ -163,7 +163,7 @@ body {
 
 /**  *****  Section CSS  *****/
 .section {
-    background-color: aliceblue;
+    background-color: gray;
 }
 .container {
     border: 1px solid black;
